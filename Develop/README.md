@@ -1,10 +1,10 @@
 
-  # README generator
+  # README Generator
 
   ## Description
 
-  * For a class project
-  * Template for those who need to quickly make README files on the go
+  * Creating for a class challenge
+  * Template for those who need to quickly create a README file
 
   ## Table of Contents
 
@@ -17,20 +17,20 @@
 
   ## Installation
 
-  * Install node, then clone from GitHub Repository
+  * Install node.js, then clone project from GitHub
 
   ## Usage
 
-  * Open terminal, run 'node index', then prompty answer all the questions.  Once completed, copy the newly created README file into desired directory
+  * Open Terminal, run 'node index', then prompty answer all of the questions given
 
   ## License
 
   
-  ### Apache License 2.0
+  ### GNU LGPLv3
     
-  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-  - [Link to License Page](https://opensource.org/licenses/Apache-2.0)
+  - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
     
 
   ## Contributors
