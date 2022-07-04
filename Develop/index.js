@@ -143,4 +143,16 @@ function promptUser() {
 function writeToFile(fileName, data) {}
 
 // Function call to initialize app
-promptUser();
+promptUser()
+    .then(data => {
+        return generateMarkdown(data)
+    })
+    .then(pageHTML => {
+        return writeToFile(pageHTML)
+    })
+    .then(writeFileResponse => {
+        console.log(writeFileResponse)
+    })
+    .catch(err => {
+        console.log(err)
+    })
