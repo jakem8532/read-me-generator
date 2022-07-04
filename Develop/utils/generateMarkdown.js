@@ -33,10 +33,10 @@ function renderLicenseSection(license) {
     return "No license is available for this project"
   }else {
     return `
-      ### ${license}
-      [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
+    ### ${license}
+    [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
 
-      - [Link to License Page](${renderLicenseLink(license)})
+    - [Link to License Page](${renderLicenseLink(license)})
     `
   }
 }
@@ -72,7 +72,7 @@ function generateMarkdown(data) {
   * ${data.usage}
 
   ## License
-  
+
   ${renderLicenseSection(data.license)}
 
   ## Contributors
