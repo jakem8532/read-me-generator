@@ -1,10 +1,10 @@
 
-  # README
+  # README generator
 
   ## Description
 
-  * Create simple read me files
-  * Template for those who need to create README files on the go
+  * Part of a class project
+  * Template for those who quickly need to create README files for their projects
 
   ## Table of Contents
 
@@ -17,24 +17,28 @@
 
   ## Installation
 
-  * Clone from GitHub into vscode
+  * Clone into vscode software, then install node
 
   ## Usage
 
-  * install node, run 'node index' from your terminal in project directory, then answer the following questions, then copy the created README into the desired directory
+  * Open terminal in vscode, then from root directory of index.js, run 'node index'.  Prompty answer all of the following questions.  Once completed, copy the product README file iinto your desired directory
 
   
-      ### MIT License
-       [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) 
+      ## License
+
+      ### Apache License 2.0
+      [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+      - [[Link to License Page](https://opensource.org/licenses/Apache-2.0)]
     
 
   ## Contributors
   
-  * Jake
+  * Jake Mendez
 
   ## Tests
 
-  * test
+  * Test
 
   ## Questions
 
