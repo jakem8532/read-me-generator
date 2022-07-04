@@ -26,11 +26,11 @@
   ## License
 
   
-  ### GNU LGPLv3
+  ### Apache License 2.0
     
-  [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
+  - [Link to License Page](https://opensource.org/licenses/Apache-2.0)
     
 
   ## Contributors
@@ -43,6 +43,6 @@
 
   ## Questions
 
-  * [GitHub](https;//github/jakem8532)
+  * [GitHub](https;//github.com/jakem8532)
   * [Email](jakem8532@gmail.com)
 
