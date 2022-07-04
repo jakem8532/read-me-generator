@@ -1,5 +1,5 @@
 
-  # README generator
+  # README Generator
 
   ## Description
 
@@ -17,20 +17,20 @@
 
   ## Installation
 
-  * Install node, then clone project from GitHub
+  * Install node.js, then clone project from GitHub
 
   ## Usage
 
-  * Open terminal in vscode with project open, then run 'node index'.  Now prompty answer all of the questions given.  Once done, take the newly created README file and copy to your desired repositoru
+  * Open terminal in vscode with project open, then run 'node index', then prompty answer all of the questions given.  Once done, take the newly created README file and copy to your desired repository
 
   ## License
 
   
-  ### Apache License 2.0
+  ### GNU LGPLv3
     
-  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-  - [Link to License Page](https://opensource.org/licenses/Apache-2.0)
+  - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
     
 
   ## Contributors
