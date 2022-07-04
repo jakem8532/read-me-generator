@@ -4,7 +4,7 @@
   ## Description
 
   * Created for a class project
-  * Template for those who need to quickly create a README file
+  * Template for those who quickly need to create a README on the go
 
   ## Table of Contents
 
@@ -17,11 +17,11 @@
 
   ## Installation
 
-  * Install node.js, then clone project from GitHub
+  * Install Node.js, then clone project from GitHub
 
   ## Usage
 
-  * Open terminal in vscode with project open, then run 'node index', then prompty answer all of the questions given.  Once done, take the newly created README file and copy to your desired repository
+  * Open terminal in vscode from root directory, then run 'node index', then prompty answer all of the following questions.  Once done, copy the newly created README file into desired repository
 
   ## License
 
@@ -43,6 +43,6 @@
 
   ## Questions
 
-  * [GitHub](https;//github.com/jakem8532)
+  * [GitHub](https://github.com/jakem8532)
   * [Email](jakem8532@gmail.com)
 

@@ -86,7 +86,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  * [GitHub](https;//github.com/${data.github})
+  * [GitHub](https://github.com/${data.github})
   * [Email](${data.email})
 
 `;
