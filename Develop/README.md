@@ -1,9 +1,9 @@
 
-  # README Generator
+  # README generator
 
   ## Description
 
-  * Creating for a class challenge
+  * Created for a class project
   * Template for those who need to quickly create a README file
 
   ## Table of Contents
@@ -17,20 +17,20 @@
 
   ## Installation
 
-  * Install node.js, then clone project from GitHub
+  * Install node, then clone project from GitHub
 
   ## Usage
 
-  * Open Terminal, run 'node index', then prompty answer all of the questions given
+  * Open terminal in vscode with project open, then run 'node index'.  Now prompty answer all of the questions given.  Once done, take the newly created README file and copy to your desired repositoru
 
   ## License
 
   
-  ### GNU LGPLv3
+  ### Apache License 2.0
     
-  [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
+  - [Link to License Page](https://opensource.org/licenses/Apache-2.0)
     
 
   ## Contributors
