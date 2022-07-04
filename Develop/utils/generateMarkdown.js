@@ -34,6 +34,7 @@ function renderLicenseSection(license) {
   }else {
     return `
     ### ${license}
+    
     [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
 
     - [Link to License Page](${renderLicenseLink(license)})

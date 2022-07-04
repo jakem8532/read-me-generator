@@ -1,10 +1,10 @@
 
-  # README generator
+  # README Generator
 
   ## Description
 
-  * p
-  * p
+  * For a class project
+  * Template for those who need to quickly make README files on the go
 
   ## Table of Contents
 
@@ -17,16 +17,17 @@
 
   ## Installation
 
-  * p
+  * Install node, then clone from GitHub Repository
 
   ## Usage
 
-  * p
+  * Open terminal, run 'node index', then prompty answer all the questions.  Once completed, copy the newly created README file into desired directory
 
   ## License
 
   
     ### GNU LGPLv3
+    
     [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
     - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
