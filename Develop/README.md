@@ -28,9 +28,9 @@
   
     ### GNU LGPLv3
     
-    [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+      [![License: GNU LGPLv3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-    - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
+      - [Link to License Page](https://www.gnu.org/licenses/lgpl-3.0)
     
 
   ## Contributors
