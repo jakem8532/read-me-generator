@@ -33,11 +33,11 @@ function renderLicenseSection(license) {
     return "No license is available for this project"
   }else {
     return `
-    ### ${license}
+  ### ${license}
     
-    [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
+  [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
 
-    - [Link to License Page](${renderLicenseLink(license)})
+  - [Link to License Page](${renderLicenseLink(license)})
     `
   }
 }
