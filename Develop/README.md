@@ -1,10 +1,10 @@
 
-  # Read Me Generator
+  # README
 
   ## Description
 
-  * I wanted to make a simple app for creating professional ReadMe Files
-  * It makes it simple for those who need to make high end ReadMe.md files on the go
+  * Create simple read me files
+  * Template for those who need to create README files on the go
 
   ## Table of Contents
 
@@ -17,22 +17,25 @@
 
   ## Installation
 
-  * Clone project from vscode, install node, run 'node index' in your terminal, then answer the questions.  Collect README.md file after
+  * Clone from GitHub into vscode
 
   ## Usage
 
-  * Clone project from vscode, install node, run 'node index' in your terminal, then answer the questions.  Collect README.md file after
+  * install node, run 'node index' from your terminal in project directory, then answer the following questions, then copy the created README into the desired directory
 
-  ## License
-  undefined
+  
+      ### MIT License
+      [![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)]
+      [[Link to License Page](undefined)]
+    
 
   ## Contributors
   
-  * Jake Mendez
+  * Jake
 
   ## Tests
 
-  * SS
+  * test
 
   ## Questions
 
