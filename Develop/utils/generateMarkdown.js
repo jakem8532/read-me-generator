@@ -30,15 +30,13 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "N/A") {
-    return ""
+    return "No license is available for this project"
   }else {
     return `
-      ## License
-
       ### ${license}
       [![License: ${license}](${renderLicenseBadge(license)})](${renderLicenseLink(license)})
 
-      - [[Link to License Page](${renderLicenseLink(license)})]
+      - [Link to License Page](${renderLicenseLink(license)})
     `
   }
 }
@@ -73,6 +71,7 @@ function generateMarkdown(data) {
 
   * ${data.usage}
 
+  ## License
   ${renderLicenseSection(data.license)}
 
   ## Contributors
